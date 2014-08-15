@@ -1,0 +1,24 @@
+{
+  "name": "salesforce-canvas-sdk",
+  "version": "1.0.0",
+  "authors": [
+    "forcedotcom"
+  ],
+  "description": "A JavaScript SDK used to integrate applications with the Force.com Canvas framework",
+  "keywords": [
+    "salesforce",
+    "canvas"
+  ],
+  "main": ["./css/canvas.css",
+            "./js/canvas-all.js"
+  ],
+  "license": "",
+  "homepage": "https://github.com/forcedotcom/SalesforceCanvasJavascriptSDK",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

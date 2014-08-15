@@ -1,0 +1,23 @@
+{
+  "name": "salesforce-canvas-sdk",
+  "version": "1.0.0",
+  "description": "A JavaScript SDK used to integrate applications with the Force.com Canvas framework",
+  "main": "js/canvas-all.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/forcedotcom/SalesforceCanvasJavascriptSDK"
+  },
+  "keywords": [
+    "salesforce",
+    "canvas"
+  ],
+  "author": "forcedotcom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forcedotcom/SalesforceCanvasJavascriptSDK/issues"
+  },
+  "homepage": "https://github.com/forcedotcom/SalesforceCanvasJavascriptSDK"
+}
